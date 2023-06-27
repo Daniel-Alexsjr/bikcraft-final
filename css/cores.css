@@ -3,6 +3,7 @@
   --cor5: #b2b2b2;
   --cor11: #111111;
   --cor10: #2e2e2e;
+  --cor8: #313131;
   --corp1: #ffbb00;
   --cor0: #fff;
 }
@@ -13,6 +14,7 @@
 .cor5{
   color: var(--cor5);
 }
+.cor8{color: var(--cor8);}
 .cor12{
   color: var(--cor12);
 }.cor11{
