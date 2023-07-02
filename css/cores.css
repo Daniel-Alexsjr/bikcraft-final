@@ -6,10 +6,15 @@
   --cor8: #313131;
   --corp1: #ffbb00;
   --cor0: #fff;
+  --cor2: #f1f1f1;
 }
 
 .cor0{
   color: var(--cor0);
+}
+
+.cor2{
+  color: var(--cor2);
 }
 .cor5{
   color: var(--cor5);
