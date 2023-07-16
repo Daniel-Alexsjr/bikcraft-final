@@ -6,6 +6,10 @@
   margin-left: auto;
   margin-right: auto;
 }
+.paddside{
+  padding-left: 40px;
+  padding-right: 40px;
+}
 
 .botao{
   display: inline-block;
